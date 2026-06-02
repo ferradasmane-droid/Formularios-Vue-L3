@@ -5,7 +5,7 @@ const nombre = ref("");
 const edad = ref(null);
 const biografia = ref("");
 
-const nivel = ref("junior");
+const nivel = ref("");
 const interesesSeleccionados = ref([]);
 const paisSeleccionado = ref(null);
 const tecnologiasSeleccionadas = ref([]);
